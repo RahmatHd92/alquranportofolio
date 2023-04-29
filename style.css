@@ -4,7 +4,7 @@ body{
     background-size:contain;
 }
 .jumbotron{
-    background-image: url(img/Al-Quran.JPG);
+    background-image: url(./Al-Quran.JPG);
     background-size:cover;
     color: aliceblue;
 }
