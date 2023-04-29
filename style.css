@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+.jumbotron{
+    background-image: url(img/Al-Quran.JPG);
+    background-size:cover;
+    color: aliceblue;
+}
+
+#nav-bar .nav-link{
+    color: aliceblue;
+}
+
+#nav-bar .navbar-brand{
+    color: aliceblue;
+}
